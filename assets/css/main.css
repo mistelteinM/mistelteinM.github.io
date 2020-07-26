@@ -2494,7 +2494,7 @@ input, select, textarea {
 					-ms-flex-shrink: 1;
 					flex-shrink: 1;
 					padding: 1em 0 0 0;
-					text-align: center;
+					text-align: left;
 					width: 100%;
 				}
 
@@ -2890,7 +2890,7 @@ input, select, textarea {
 						-ms-flex: 0 1 auto;
 						margin: 0 0 2em 0;
 						padding: 0;
-						text-align: center;
+						text-align: left;
 					}
 
 					.post > header .meta {
